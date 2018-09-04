@@ -22,9 +22,29 @@ JavaServer Faces Technology - http://www.oracle.com/technetwork/%20java/javaee/j
 Authors:
 Lukas Knecht
     - Project Structure 
-    - Patient Management 
+    - Patient Management (Create, Update and Delete Patient) 
     - SQL Connection
 
 Jun Park 
-    -Login 
+    - Login
+    - Frontend
+    - Calender view of appointments
+    
+Brandi 
+    - Appointment Management (Create, Update, Delete)
+
+Jelisha
+    - Search patient
+
+Aashna 
+    -Search Appointments
+    
+Mawgee
+   - SQL Architecture
+   - Database Development
+   - Calender view of appointments
+    
+   
+    
+    
 
